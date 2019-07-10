@@ -6,3 +6,4 @@ def prime(n)
   else
     puts "#{n} is not prime."
 end
+end
