@@ -5,5 +5,4 @@ def prime(n)
     puts "#{n} is prime!"
   else
     puts "#{n} is not prime."
-  end
 end
